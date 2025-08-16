@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         MWI Chat History Font Size Changer
+// @name         Milky Way Idle - Chat History Font Size Increaser
 // @namespace    http://www.milkywayidle.com/
 // @version      1.0
-// @description  Change font size to 20px for ChatHistory
+// @description  Change font size to 20px for Chat History
 // @author       physon
 // @match        https://www.milkywayidle.com/*
 // @match        https://test.milkywayidle.com/*
