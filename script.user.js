@@ -2,8 +2,8 @@
 // @name         MWI Chat History Font Size Changer
 // @namespace    http://www.milkywayidle.com/
 // @version      1.0
-// @description  Change font size to 20px for ChatHistory_chatHistory__1EiG3 class
-// @author       You
+// @description  Change font size to 20px for ChatHistory
+// @author       physon
 // @match        https://www.milkywayidle.com/*
 // @match        https://test.milkywayidle.com/*
 // @grant        none
