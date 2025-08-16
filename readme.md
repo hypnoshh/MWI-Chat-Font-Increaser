@@ -1,0 +1,1 @@
+Just a user script to increase chat font a bit for [Milky Way Idle](https://www.milkywayidle.com)
